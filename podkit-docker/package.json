@@ -1,0 +1,17 @@
+{
+  "name": "@podkit/docker",
+  "version": "1.0.0-alpha.2",
+  "description": "",
+  "main": "podkit-docker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Francisco Ryan Tolmasky I <tolmasky@gmail.com> (https://tolmasky.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@await/spawn": "^9.0.0",
+    "@reified/fail": "^1.0.0-alpha.1",
+    "@reified/function": "^1.0.0-alpha.1"
+  }
+}
